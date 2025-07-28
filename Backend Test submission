@@ -1,1 +1,10 @@
+cd C:\Users\badda\OneDrive\Documents
+mkdir "Backend Test submission"
+move app.py "Backend Test submission"
+move log_middleware.py "Backend Test submission"
+move register.py "Backend Test submission"
+move get_token.py "Backend Test submission"
+move database.py "Backend Test submission"
+move models.py "Backend Test submission"
+move log.txt "Backend Test submission"
 
